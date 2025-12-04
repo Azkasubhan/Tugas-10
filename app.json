@@ -3,13 +3,16 @@
     "name": "TugasFirebase",
     "slug": "TugasFirebase",
     "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "jsEngine": "jsc",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "tugasfirebase",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.TugasFirebase"
     },
     "android": {
       "adaptiveIcon": {
@@ -19,7 +22,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.TugasFirebase"
     },
     "web": {
       "output": "static",

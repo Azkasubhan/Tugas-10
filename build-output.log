@@ -1,0 +1,1250 @@
+› Planning build
+    Run script build phase '[CP-User] [Hermes] Replace Hermes for the right configuration, if needed' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'hermes-engine' from project 'Pods')
+› Executing react-native Pods/hermes-engine » [CP-User] [Hermes] Replace Hermes for the right configuration, if needed
+› Preparing expo-constants Pods/EXConstants-EXConstants » ResourceBundle-EXConstants-EXConstants-Info.plist
+› Executing react-native Pods/ReactNativeDependencies » [CP-User] [RNDeps] Replace React Native Dependencies for the right configuration, if needed
+› Preparing expo-image Pods/SDWebImage-SDWebImage » ResourceBundle-SDWebImage-SDWebImage-Info.plist
+› Preparing Pods/ExpoSystemUI-ExpoSystemUI_privacy » ResourceBundle-ExpoSystemUI_privacy-ExpoSystemUI-Info.plist
+› Preparing Pods/React-cxxreact-React-cxxreact_privacy » ResourceBundle-React-cxxreact_privacy-React-cxxreact-Info.plist
+› Preparing Pods/React-Core-React-Core_privacy » ResourceBundle-React-Core_privacy-React-Core-Info.plist
+› Preparing Pods/ExpoFileSystem-ExpoFileSystem_privacy » ResourceBundle-ExpoFileSystem_privacy-ExpoFileSystem-Info.plist
+› Preparing Pods/EXConstants-ExpoConstants_privacy » ResourceBundle-ExpoConstants_privacy-EXConstants-Info.plist
+› Compiling react-native-mmkv Pods/MMKVCore » InterProcessLock.cpp
+› Compiling react-native-mmkv Pods/MMKVCore » CodedOutputData.cpp
+› Compiling react-native-mmkv Pods/MMKVCore » CodedInputData_OSX.cpp
+› Compiling react-native-mmkv Pods/MMKVCore » CodedInputDataCrypt_OSX.cpp
+› Compiling react-native-mmkv Pods/MMKVCore » CodedInputDataCrypt.cpp
+› Compiling react-native-mmkv Pods/MMKVCore » CodedInputData.cpp
+› Compiling expo-image Pods/libwebp » upsampling.c
+› Compiling expo-image Pods/libwebp » tree_enc.c
+› Compiling expo-image Pods/libwebp » tree_dec.c
+› Compiling expo-image Pods/libwebp » token_enc.c
+› Compiling expo-image Pods/libwebp » thread_utils.c
+› Compiling expo-image Pods/libwebp » syntax_enc.c
+› Compiling expo-image Pods/libwebp » ssim_sse2.c
+› Compiling expo-image Pods/libwebp » ssim.c
+› Compiling expo-image Pods/libwebp » sharpyuv_sse2.c
+› Compiling expo-image Pods/libwebp » sharpyuv_neon.c
+› Compiling expo-image Pods/libwebp » sharpyuv_gamma.c
+› Compiling expo-image Pods/libwebp » sharpyuv_dsp.c
+› Compiling expo-image Pods/libwebp » sharpyuv_csp.c
+› Compiling expo-image Pods/libwebp » sharpyuv_cpu.c
+› Compiling expo-image Pods/libwebp » sharpyuv.c
+› Compiling expo-image Pods/libwebp » rescaler_utils.c
+› Compiling expo-image Pods/libwebp » rescaler_sse2.c
+› Compiling expo-image Pods/libwebp » rescaler_neon.c
+› Compiling expo-image Pods/libwebp » rescaler_msa.c
+› Compiling expo-image Pods/libwebp » rescaler_mips_dsp_r2.c
+› Compiling expo-image Pods/libwebp » io_dec.c
+› Compiling expo-image Pods/libdav1d » data.c
+› Compiling expo-image Pods/libdav1d » cpu.c
+› Compiling expo-image Pods/libdav1d » cdf.c
+› Compiling expo-image Pods/libdav1d » cdef_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » cdef_tmpl.c
+› Compiling expo-image Pods/libwebp » rescaler_mips32.c
+› Compiling expo-image Pods/libwebp » rescaler.c
+› Compiling expo-image Pods/libwebp » random_utils.c
+› Compiling expo-image Pods/libwebp » quant_levels_utils.c
+› Compiling expo-image Pods/libwebp » quant_levels_dec_utils.c
+› Compiling expo-image Pods/libwebp » quant_enc.c
+› Compiling expo-image Pods/libwebp » quant_dec.c
+› Compiling expo-image Pods/libwebp » predictor_enc.c
+› Compiling expo-image Pods/libwebp » picture_tools_enc.c
+› Compiling expo-image Pods/libwebp » picture_rescale_enc.c
+› Compiling expo-image Pods/libwebp » picture_psnr_enc.c
+› Compiling expo-image Pods/libwebp » picture_enc.c
+› Compiling expo-image Pods/libwebp » picture_csp_enc.c
+› Compiling expo-image Pods/libwebp » palette.c
+› Compiling expo-image Pods/libwebp » near_lossless_enc.c
+› Compiling expo-image Pods/libwebp » muxread.c
+› Compiling expo-image Pods/libwebp » muxinternal.c
+› Compiling expo-image Pods/libwebp » lossless_sse41.c
+› Compiling expo-image Pods/libwebp » muxedit.c
+› Compiling expo-image Pods/libwebp » lossless_sse2.c
+› Compiling expo-image Pods/libwebp » lossless_neon.c
+› Compiling expo-image Pods/libwebp » lossless_msa.c
+› Compiling expo-image Pods/libwebp » lossless_mips_dsp_r2.c
+› Compiling expo-image Pods/libwebp » lossless_enc_sse41.c
+› Compiling expo-image Pods/libwebp » lossless_enc_neon.c
+› Compiling expo-image Pods/libwebp » lossless_enc_sse2.c
+› Compiling expo-image Pods/libwebp » lossless_enc_msa.c
+› Compiling expo-image Pods/libwebp » lossless_enc_mips_dsp_r2.c
+› Compiling expo-image Pods/libwebp » lossless_enc_mips32.c
+› Compiling expo-image Pods/libwebp » lossless_enc.c
+› Compiling expo-image Pods/libwebp » lossless.c
+› Compiling expo-image Pods/libwebp » iterator_enc.c
+› Compiling expo-image Pods/libwebp » idec_dec.c
+› Packaging react-native-mmkv Pods/MMKVCore » libMMKVCore.a
+› Compiling expo-image Pods/libwebp » huffman_utils.c
+› Compiling expo-image Pods/libwebp » huffman_encode_utils.c
+› Compiling expo-image Pods/libwebp » histogram_enc.c
+› Compiling expo-image Pods/libwebp » frame_enc.c
+› Compiling expo-image Pods/libwebp » frame_dec.c
+› Compiling expo-image Pods/libwebp » filters_utils.c
+› Compiling expo-image Pods/libwebp » libwebp-dummy.m
+› Compiling expo-image Pods/libwebp » filters_sse2.c
+› Compiling expo-image Pods/libwebp » filters_neon.c
+› Compiling expo-image Pods/libwebp » filters_msa.c
+› Compiling expo-image Pods/libwebp » filters_mips_dsp_r2.c
+› Compiling expo-image Pods/libwebp » filters.c
+› Compiling expo-image Pods/libwebp » filter_enc.c
+› Compiling expo-image Pods/libwebp » enc_sse41.c
+› Compiling expo-image Pods/libwebp » enc_sse2.c
+› Compiling expo-image Pods/libwebp » enc_neon.c
+› Compiling expo-image Pods/libwebp » enc_msa.c
+› Compiling expo-image Pods/libwebp » enc_mips_dsp_r2.c
+› Compiling expo-image Pods/libwebp » enc_mips32.c
+› Compiling expo-image Pods/libwebp » dec_sse41.c
+› Compiling expo-image Pods/libwebp » enc.c
+› Compiling expo-image Pods/libwebp » demux.c
+› Compiling expo-image Pods/libwebp » dec_neon.c
+› Compiling expo-image Pods/libwebp » dec_msa.c
+› Compiling expo-image Pods/libwebp » dec_mips_dsp_r2.c
+› Compiling expo-image Pods/libwebp » dec_sse2.c
+› Compiling expo-image Pods/libwebp » dec_mips32.c
+› Compiling expo-image Pods/libwebp » dec_clip_tables.c
+› Compiling expo-image Pods/libwebp » cpu.c
+› Compiling expo-image Pods/libwebp » dec.c
+› Compiling expo-image Pods/libwebp » cost_sse2.c
+› Compiling expo-image Pods/libwebp » cost_neon.c
+› Compiling expo-image Pods/libwebp » cost_mips_dsp_r2.c
+› Compiling expo-image Pods/libwebp » cost_mips32.c
+› Compiling expo-image Pods/libwebp » config_enc.c
+› Compiling expo-image Pods/libwebp » cost_enc.c
+› Compiling expo-image Pods/libwebp » cost.c
+› Compiling expo-image Pods/libwebp » color_cache_utils.c
+› Compiling expo-image Pods/libwebp » buffer_dec.c
+› Compiling expo-image Pods/libwebp » bit_writer_utils.c
+› Compiling expo-image Pods/libwebp » bit_reader_utils.c
+› Compiling expo-image Pods/libwebp » backward_references_enc.c
+› Compiling expo-image Pods/libwebp » backward_references_cost_enc.c
+› Compiling expo-image Pods/libwebp » anim_encode.c
+› Compiling expo-image Pods/libwebp » anim_decode.c
+› Compiling expo-image Pods/libwebp » analysis_enc.c
+› Compiling expo-image Pods/libwebp » alpha_processing_sse41.c
+› Compiling expo-image Pods/libwebp » alpha_processing_sse2.c
+› Compiling expo-image Pods/libwebp » alpha_processing_neon.c
+› Compiling expo-image Pods/libwebp » alpha_processing_mips_dsp_r2.c
+› Compiling expo-image Pods/libwebp » alpha_processing.c
+› Compiling expo-image Pods/libdav1d » wedge.c
+› Compiling expo-image Pods/libwebp » alpha_enc.c
+› Compiling expo-image Pods/libdav1d » warpmv.c
+› Compiling expo-image Pods/libdav1d » tables.c
+› Compiling expo-image Pods/libdav1d » thread_task.c
+› Compiling expo-image Pods/libdav1d » scan.c
+› Compiling expo-image Pods/libdav1d » ref.c
+› Compiling expo-image Pods/libdav1d » refmvs.c
+› Compiling expo-image Pods/libdav1d » recon_tmpl_16.c
+› Packaging expo-image Pods/libwebp » liblibwebp.a
+› Compiling expo-image Pods/libdav1d » recon_tmpl.c
+› Compiling expo-image Pods/libdav1d » qm.c
+› Compiling expo-image Pods/libdav1d » picture.c
+› Compiling expo-image Pods/libdav1d » obu.c
+› Compiling expo-image Pods/libdav1d » msac.c
+› Compiling expo-image Pods/libdav1d » mc_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » mem.c
+› Compiling expo-image Pods/libdav1d » mc_tmpl.c
+› Compiling expo-image Pods/libdav1d » lr_apply_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » lr_apply_tmpl.c
+› Compiling expo-image Pods/libdav1d » looprestoration_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » looprestoration_tmpl.c
+› Compiling expo-image Pods/libdav1d » loopfilter_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » loopfilter_tmpl.c
+› Compiling expo-image Pods/libdav1d » log.c
+› Compiling expo-image Pods/libdav1d » lf_mask.c
+› Compiling expo-image Pods/libdav1d » lib.c
+› Compiling expo-image Pods/libdav1d » lf_apply_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » itx_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » itx_tmpl.c
+› Compiling expo-image Pods/libdav1d » lf_apply_tmpl.c
+› Compiling expo-image Pods/libdav1d » itx_1d.c
+› Compiling expo-image Pods/libdav1d » ipred_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » libdav1d-dummy.m
+› Compiling expo-image Pods/libdav1d » ipred_tmpl.c
+› Compiling expo-image Pods/libdav1d » ipred_prepare_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » getbits.c
+› Compiling expo-image Pods/libdav1d » intra_edge.c
+› Compiling expo-image Pods/libdav1d » filmgrain_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » filmgrain_tmpl.c
+› Compiling expo-image Pods/libdav1d » ipred_prepare_tmpl.c
+› Compiling expo-image Pods/libdav1d » fg_apply_tmpl_16.c
+› Compiling expo-image Pods/libdav1d » dequant_tables.c
+› Compiling expo-image Pods/libdav1d » cpu.c
+› Compiling expo-image Pods/libdav1d » fg_apply_tmpl.c
+› Compiling expo-image Pods/libdav1d » decode.c
+› Compiling expo-image Pods/libdav1d » cdef_apply_tmpl_16.c
+› Compiling Pods/libavif » scale.c
+› Compiling Pods/libavif » reformat_libyuv.c
+› Compiling Pods/libavif » utils.c
+› Compiling Pods/libavif » reformat_libsharpyuv.c
+› Compiling Pods/libavif » write.c
+› Compiling Pods/libavif » stream.c
+› Compiling Pods/libavif » reformat.c
+› Compiling Pods/libavif » read.c
+› Compiling Pods/libavif » rawdata.c
+› Compiling Pods/libavif » obu.c
+› Compiling Pods/libavif » mem.c
+› Compiling Pods/libavif » io.c
+› Compiling Pods/libavif » exif.c
+› Compiling Pods/libavif » diag.c
+› Compiling Pods/libavif » colr.c
+› Compiling Pods/libavif » codec_dav1d.c
+› Compiling Pods/libavif » avif.c
+› Compiling Pods/libavif » libavif-dummy.m
+› Compiling expo-image Pods/SDWebImageSVGCoder » SDWebImageSVGCoder-dummy.m
+› Packaging expo-image Pods/libdav1d » liblibdav1d.a
+› Compiling expo-image Pods/SDWebImageAVIFCoder » SDWebImageAVIFCoder-dummy.m
+› Compiling expo-image Pods/SDWebImageSVGCoder » SDWebImageSVGCoderDefine.m
+› Compiling expo-image Pods/SDWebImageAVIFCoder » SDImageAVIFCoder.m
+› Compiling expo-image Pods/SDWebImageWebPCoder » UIImage+WebP.m
+› Compiling expo-image Pods/SDWebImageWebPCoder » SDWebImageWebPCoderDefine.m
+› Compiling expo-image Pods/SDWebImageWebPCoder » SDWebImageWebPCoder-dummy.m
+› Compiling expo-image Pods/SDWebImage » UIView+WebCacheState.m
+› Compiling expo-image Pods/SDWebImageAVIFCoder » Conversion.m
+› Compiling expo-image Pods/SDWebImage » UIView+WebCacheOperation.m
+› Compiling expo-image Pods/SDWebImage » UIView+WebCache.m
+› Compiling expo-image Pods/SDWebImage » UIImageView+WebCache.m
+› Compiling expo-image Pods/SDWebImage » UIImageView+HighlightedWebCache.m
+› Compiling expo-image Pods/SDWebImage » UIImage+Transform.m
+› Compiling expo-image Pods/SDWebImage » UIImage+MultiFormat.m
+› Compiling expo-image Pods/SDWebImage » UIImage+GIF.m
+› Compiling expo-image Pods/SDWebImage » UIImage+Metadata.m
+› Compiling expo-image Pods/SDWebImage » UIImage+MemoryCacheCost.m
+› Compiling expo-image Pods/SDWebImage » UIImage+ForceDecode.m
+› Compiling expo-image Pods/SDWebImage » UIImage+ExtendedCacheData.m
+› Compiling expo-image Pods/SDWebImage » UIButton+WebCache.m
+› Compiling expo-image Pods/SDWebImage » UIColor+SDHexString.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageOptionsProcessor.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageTransition.m
+› Compiling expo-image Pods/SDWebImage » SDWebImagePrefetcher.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageOperation.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageManager.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageIndicator.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageError.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageDownloaderResponseModifier.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageDownloaderRequestModifier.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageDownloaderOperation.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageDownloaderDecryptor.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageDownloader.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageDownloaderConfig.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageDefine.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageCompat.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageCacheSerializer.m
+› Compiling expo-image Pods/SDWebImage » SDWebImageCacheKeyFilter.m
+› Compiling expo-image Pods/SDWebImage » SDWebImage-dummy.m
+› Compiling expo-image Pods/SDWebImage » SDWeakProxy.m
+› Compiling expo-image Pods/SDWebImage » SDInternalMacros.m
+› Compiling expo-image Pods/SDWebImage » SDMemoryCache.m
+› Compiling expo-image Pods/SDWebImage » SDImageLoadersManager.m
+› Compiling expo-image Pods/SDWebImage » SDImageTransformer.m
+› Compiling expo-image Pods/SDWebImage » SDImageLoader.m
+› Compiling expo-image Pods/SDWebImage » SDImageIOCoder.m
+› Compiling expo-image Pods/SDWebImage » SDImageIOAnimatedCoder.m
+› Compiling expo-image Pods/SDWebImage » SDImageHEICCoder.m
+› Compiling expo-image Pods/SDWebImage » SDImageGraphics.m
+› Compiling expo-image Pods/SDWebImage » SDImageGIFCoder.m
+› Compiling expo-image Pods/SDWebImage » SDImageFramePool.m
+› Compiling expo-image Pods/SDWebImage » SDImageFrame.m
+› Compiling expo-image Pods/SDWebImage » SDImageCoder.m
+› Compiling expo-image Pods/SDWebImage » SDImageCodersManager.m
+› Compiling expo-image Pods/SDWebImage » SDImageCachesManagerOperation.m
+› Compiling expo-image Pods/SDWebImage » SDImageCoderHelper.m
+› Compiling expo-image Pods/SDWebImage » SDImageCachesManager.m
+› Compiling expo-image Pods/SDWebImage » SDImageCacheConfig.m
+› Compiling expo-image Pods/SDWebImage » SDImageCacheDefine.m
+› Compiling expo-image Pods/SDWebImage » SDImageAssetManager.m
+› Compiling expo-image Pods/SDWebImage » SDImageCache.m
+› Compiling expo-image Pods/SDWebImage » SDImageAWebPCoder.m
+› Compiling expo-image Pods/SDWebImage » SDImageAPNGCoder.m
+› Compiling expo-image Pods/SDWebImage » SDFileAttributeHelper.m
+› Compiling expo-image Pods/SDWebImage » SDGraphicsImageRenderer.m
+› Compiling expo-image Pods/SDWebImage » SDDisplayLink.m
+› Compiling expo-image Pods/SDWebImage » SDCallbackQueue.m
+› Compiling expo-image Pods/SDWebImage » SDDeviceHelper.m
+› Compiling expo-image Pods/SDWebImage » SDDiskCache.m
+› Compiling expo-image Pods/SDWebImage » SDAsyncBlockOperation.m
+› Compiling expo-image Pods/SDWebImage » SDAssociatedObject.m
+› Compiling expo-image Pods/SDWebImage » SDAnimatedImageView+WebCache.m
+› Compiling expo-image Pods/SDWebImage » SDAnimatedImage.m
+› Compiling expo-image Pods/SDWebImage » SDAnimatedImageRep.m
+› Compiling expo-image Pods/SDWebImage » SDAnimatedImagePlayer.m
+› Compiling expo-image Pods/SDWebImage » SDAnimatedImageView.m
+› Compiling expo-image Pods/SDWebImage » NSData+ImageContentType.m
+› Executing react-native Pods/React-Core-prebuilt » [CP-User] [RNDeps] Replace React Native Core for the right configuration, if needed
+› Packaging Pods/libavif » liblibavif.a
+› Compiling expo-image Pods/SDWebImage » NSImage+Compatibility.m
+› Compiling expo-image Pods/SDWebImage » NSButton+WebCache.m
+› Packaging expo-image Pods/SDWebImage » libSDWebImage.a
+› Packaging expo-image Pods/SDWebImageWebPCoder » libSDWebImageWebPCoder.a
+› Packaging expo-image Pods/SDWebImageSVGCoder » libSDWebImageSVGCoder.a
+› Packaging expo-image Pods/SDWebImageAVIFCoder » libSDWebImageAVIFCoder.a
+› Executing react-native Pods/React-Core-prebuilt » [CP] Copy XCFrameworks
+› Executing react-native Pods/React-RCTFBReactNativeSpec » [CP-User] [RN]Check FBReactNativeSpec
+› Compiling react-native-gesture-handler Pods/RNGestureHandler » RNGestureHandlerButton.mm
+› Compiling tugasfirebase Pods/ReactAppDependencyProvider » RCTAppDependencyProvider.mm
+› Compiling react-native-gesture-handler Pods/RNGestureHandler » RNGestureHandler.mm
+› Compiling react-native-gesture-handler Pods/RNGestureHandler » RNGestureHandlerModule.mm
+› Compiling react-native-gesture-handler Pods/RNGestureHandler » RNGestureHandlerRootViewComponentView.mm
+› Compiling react-native-gesture-handler Pods/RNGestureHandler » RNGestureHandlerManager.mm
+› Compiling react-native-gesture-handler Pods/RNGestureHandler » RNGestureHandlerButtonComponentView.mm
+› Compiling react-native-safe-area-context Pods/react-native-safe-area-context » RNCSafeAreaViewState.cpp
+› Compiling react-native-safe-area-context Pods/react-native-safe-area-context » RNCSafeAreaViewShadowNode.cpp
+› Compiling react-native-safe-area-context Pods/react-native-safe-area-context » RNCSafeAreaViewComponentView.mm
+› Compiling react-native-safe-area-context Pods/react-native-safe-area-context » RNCSafeAreaProviderComponentView.mm
+› Compiling react-native-safe-area-context Pods/react-native-safe-area-context » RNCSafeAreaContext.mm
+› Compiling tugasfirebase Pods/ReactCodegen » safeareacontextJSI-generated.cpp
+› Compiling tugasfirebase Pods/ReactCodegen » safeareacontext-generated.mm
+› Compiling tugasfirebase Pods/ReactCodegen » rnworkletsJSI-generated.cpp
+› Compiling tugasfirebase Pods/ReactCodegen » rnworklets-generated.mm
+› Compiling tugasfirebase Pods/ReactCodegen » rnscreensJSI-generated.cpp
+
+› 0 error(s), and 1 warning(s)
+
+CommandError: Failed to build iOS project. "xcodebuild" exited with error code 65.
+To view more error logs, try building the app with Xcode directly, by opening /Users/azka/TugasFirebase/ios/TugasFirebase.xcworkspace.
+
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -workspace /Users/azka/TugasFirebase/ios/TugasFirebase.xcworkspace -configuration Debug -scheme TugasFirebase -destination id=A4CEF9AD-637E-4FD2-976A-32087963A96F
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Prepare packages
+
+ComputeTargetDependencyGraph
+note: Building targets in dependency order
+note: Target dependency graph (106 targets)
+    Target 'TugasFirebase' in project 'TugasFirebase'
+        ➜ Implicit dependency on target 'Pods-TugasFirebase' in project 'Pods' via file 'libPods-TugasFirebase.a' in build phase 'Link Binary'
+        ➜ Implicit dependency on target 'EXConstants' in project 'Pods' via options '-lEXConstants' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'Expo' in project 'Pods' via options '-lExpo' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoAsset' in project 'Pods' via options '-lExpoAsset' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoFileSystem' in project 'Pods' via options '-lExpoFileSystem' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoFont' in project 'Pods' via options '-lExpoFont' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoHaptics' in project 'Pods' via options '-lExpoHaptics' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoHead' in project 'Pods' via options '-lExpoHead' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoImage' in project 'Pods' via options '-lExpoImage' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoKeepAwake' in project 'Pods' via options '-lExpoKeepAwake' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoLinking' in project 'Pods' via options '-lExpoLinking' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoModulesCore' in project 'Pods' via options '-lExpoModulesCore' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoSplashScreen' in project 'Pods' via options '-lExpoSplashScreen' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoSymbols' in project 'Pods' via options '-lExpoSymbols' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoSystemUI' in project 'Pods' via options '-lExpoSystemUI' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ExpoWebBrowser' in project 'Pods' via options '-lExpoWebBrowser' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'MMKVCore' in project 'Pods' via options '-lMMKVCore' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'NitroMmkv' in project 'Pods' via options '-lNitroMmkv' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'NitroModules' in project 'Pods' via options '-lNitroModules' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'RNGestureHandler' in project 'Pods' via options '-lRNGestureHandler' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'RNReanimated' in project 'Pods' via options '-lRNReanimated' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'RNScreens' in project 'Pods' via options '-lRNScreens' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'RNWorklets' in project 'Pods' via options '-lRNWorklets' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ReactAppDependencyProvider' in project 'Pods' via options '-lReactAppDependencyProvider' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'ReactCodegen' in project 'Pods' via options '-lReactCodegen' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'SDWebImage' in project 'Pods' via options '-lSDWebImage' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'SDWebImageAVIFCoder' in project 'Pods' via options '-lSDWebImageAVIFCoder' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'SDWebImageSVGCoder' in project 'Pods' via options '-lSDWebImageSVGCoder' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'SDWebImageWebPCoder' in project 'Pods' via options '-lSDWebImageWebPCoder' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'libavif' in project 'Pods' via options '-llibavif' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'libdav1d' in project 'Pods' via options '-llibdav1d' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'libwebp' in project 'Pods' via options '-llibwebp' in build setting 'OTHER_LDFLAGS'
+        ➜ Implicit dependency on target 'react-native-safe-area-context' in project 'Pods' via options '-lreact-native-safe-area-context' in build setting 'OTHER_LDFLAGS'
+    Target 'Pods-TugasFirebase' in project 'Pods'
+        ➜ Explicit dependency on target 'EXConstants' in project 'Pods'
+        ➜ Explicit dependency on target 'Expo' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoAsset' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoFileSystem' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoFont' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoHaptics' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoHead' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoImage' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoKeepAwake' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoLinking' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoSplashScreen' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoSymbols' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoSystemUI' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoWebBrowser' in project 'Pods'
+        ➜ Explicit dependency on target 'FBLazyVector' in project 'Pods'
+        ➜ Explicit dependency on target 'MMKVCore' in project 'Pods'
+        ➜ Explicit dependency on target 'NitroMmkv' in project 'Pods'
+        ➜ Explicit dependency on target 'NitroModules' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTDeprecation' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'RNGestureHandler' in project 'Pods'
+        ➜ Explicit dependency on target 'RNReanimated' in project 'Pods'
+        ➜ Explicit dependency on target 'RNScreens' in project 'Pods'
+        ➜ Explicit dependency on target 'RNWorklets' in project 'Pods'
+        ➜ Explicit dependency on target 'React' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-CoreModules' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-FabricComponents' in project 'Pods'
+        ➜ Explicit dependency on target 'React-FabricImage' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Mapbuffer' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTActionSheet' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTAnimation' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTAppDelegate' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTBlob' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTImage' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTLinking' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTNetwork' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTRuntime' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTSettings' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTText' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTVibration' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeCore' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeHermes' in project 'Pods'
+        ➜ Explicit dependency on target 'React-callinvoker' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-defaultsnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'React-domnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflagsnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-hermes' in project 'Pods'
+        ➜ Explicit dependency on target 'React-idlecallbacksnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jserrorhandler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectornetwork' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsitooling' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsitracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-logger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-microtasksnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'React-oscompat' in project 'Pods'
+        ➜ Explicit dependency on target 'React-perflogger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-performancetimeline' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererconsistency' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimescheduler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-timing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactAppDependencyProvider' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImageAVIFCoder' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImageSVGCoder' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImageWebPCoder' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'libavif' in project 'Pods'
+        ➜ Explicit dependency on target 'libdav1d' in project 'Pods'
+        ➜ Explicit dependency on target 'libwebp' in project 'Pods'
+        ➜ Explicit dependency on target 'react-native-safe-area-context' in project 'Pods'
+    Target 'react-native-safe-area-context' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+    Target 'React' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTActionSheet' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTAnimation' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTBlob' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTImage' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTLinking' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTNetwork' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTSettings' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTText' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTVibration' in project 'Pods'
+    Target 'React-RCTVibration' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-RCTSettings' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-RCTLinking' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+    Target 'React-RCTActionSheet' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+    Target 'RNReanimated' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'RNWorklets' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-hermes' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+    Target 'RNWorklets' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-hermes' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+    Target 'RNGestureHandler' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+    Target 'NitroMmkv' in project 'Pods'
+        ➜ Explicit dependency on target 'MMKVCore' in project 'Pods'
+        ➜ Explicit dependency on target 'NitroModules' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-callinvoker' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+    Target 'NitroModules' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-callinvoker' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+    Target 'MMKVCore' in project 'Pods' (no dependencies)
+    Target 'ExpoWebBrowser' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+    Target 'ExpoSystemUI' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoSystemUI-ExpoSystemUI_privacy' in project 'Pods'
+    Target 'ExpoSystemUI-ExpoSystemUI_privacy' in project 'Pods' (no dependencies)
+    Target 'ExpoSymbols' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+    Target 'ExpoSplashScreen' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+    Target 'ExpoLinking' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+    Target 'ExpoKeepAwake' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+    Target 'ExpoImage' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImageAVIFCoder' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImageSVGCoder' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImageWebPCoder' in project 'Pods'
+        ➜ Explicit dependency on target 'libavif' in project 'Pods'
+    Target 'SDWebImageWebPCoder' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+        ➜ Explicit dependency on target 'libwebp' in project 'Pods'
+    Target 'libwebp' in project 'Pods' (no dependencies)
+    Target 'SDWebImageSVGCoder' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+    Target 'SDWebImageAVIFCoder' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+        ➜ Explicit dependency on target 'libavif' in project 'Pods'
+    Target 'libavif' in project 'Pods'
+        ➜ Explicit dependency on target 'libdav1d' in project 'Pods'
+    Target 'libdav1d' in project 'Pods' (no dependencies)
+    Target 'SDWebImage' in project 'Pods'
+        ➜ Explicit dependency on target 'SDWebImage-SDWebImage' in project 'Pods'
+    Target 'SDWebImage-SDWebImage' in project 'Pods' (no dependencies)
+    Target 'ExpoHead' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+        ➜ Explicit dependency on target 'RNScreens' in project 'Pods'
+    Target 'RNScreens' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTImage' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+    Target 'ExpoHaptics' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+    Target 'ExpoFont' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+    Target 'ExpoFileSystem' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoFileSystem-ExpoFileSystem_privacy' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+    Target 'ExpoFileSystem-ExpoFileSystem_privacy' in project 'Pods' (no dependencies)
+    Target 'ExpoAsset' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+    Target 'Expo' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTAppDelegate' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactAppDependencyProvider' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+    Target 'ReactAppDependencyProvider' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+    Target 'EXConstants' in project 'Pods'
+        ➜ Explicit dependency on target 'EXConstants-EXConstants' in project 'Pods'
+        ➜ Explicit dependency on target 'EXConstants-ExpoConstants_privacy' in project 'Pods'
+        ➜ Explicit dependency on target 'ExpoModulesCore' in project 'Pods'
+    Target 'ExpoModulesCore' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+    Target 'ReactCodegen' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-FabricImage' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTAppDelegate' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+    Target 'React-RCTAppDelegate' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-CoreModules' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-defaultsnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-hermes' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsitooling' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTImage' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTNetwork' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTRuntime' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeCore' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimescheduler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-RCTRuntime' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsitooling' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeCore' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeHermes' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-RuntimeApple' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-callinvoker' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-CoreModules' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jserrorhandler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsitooling' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Mapbuffer' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeCore' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeHermes' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimescheduler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-RuntimeHermes' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-hermes' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsitooling' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsitracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RuntimeCore' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-jsitracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+    Target 'React-RuntimeCore' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jserrorhandler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsitooling' in project 'Pods'
+        ➜ Explicit dependency on target 'React-performancetimeline' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimescheduler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-Mapbuffer' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-jserrorhandler' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-defaultsnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-domnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflagsnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'React-idlecallbacksnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-microtasksnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-microtasksnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-idlecallbacksnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimescheduler' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-featureflagsnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-domnativemodule' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-FabricComponents' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+    Target 'React-CoreModules' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTBlob' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTImage' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-RCTBlob' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTNetwork' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-RCTFabric' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-FabricComponents' in project 'Pods'
+        ➜ Explicit dependency on target 'React-FabricImage' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectornetwork' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-performancetimeline' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTAnimation' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTImage' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTText' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererconsistency' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimescheduler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+    Target 'React-RCTText' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+    Target 'React-RCTImage' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTNetwork' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-RCTNetwork' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectornetwork' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-RCTAnimation' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-FabricImage' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-logger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+    Target 'React-FabricComponents' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-logger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimescheduler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+    Target 'React-RCTFBReactNativeSpec' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+    Target 'React-NativeModulesApple' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-callinvoker' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-ImageManager' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-Fabric' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-logger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-performancetimeline' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererconsistency' in project 'Pods'
+        ➜ Explicit dependency on target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimescheduler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+    Target 'ReactCommon' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-callinvoker' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-logger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-perflogger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-renderercss' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+    Target 'React-graphics' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'RCTTypeSafety' in project 'Pods'
+        ➜ Explicit dependency on target 'FBLazyVector' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTRequired' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core' in project 'Pods'
+    Target 'React-Core' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'RCTDeprecation' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-React-Core_privacy' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-hermes' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsitooling' in project 'Pods'
+        ➜ Explicit dependency on target 'React-perflogger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimescheduler' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+        ➜ Explicit dependency on target 'Yoga' in project 'Pods'
+    Target 'Yoga' in project 'Pods' (no dependencies)
+    Target 'React-runtimescheduler' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-callinvoker' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-performancetimeline' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererconsistency' in project 'Pods'
+        ➜ Explicit dependency on target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-timing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-rendererdebug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-rendererconsistency' in project 'Pods' (no dependencies)
+    Target 'React-jsitooling' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-hermes' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-perflogger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-jsiexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-perflogger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-cxxreact' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-callinvoker' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-cxxreact-React-cxxreact_privacy' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-logger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-perflogger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-timing' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-logger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-jsinspector' in project 'Pods'
+        ➜ Explicit dependency on target 'hermes-engine' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectorcdp' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectornetwork' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsinspectortracing' in project 'Pods'
+        ➜ Explicit dependency on target 'React-oscompat' in project 'Pods'
+        ➜ Explicit dependency on target 'React-perflogger' in project 'Pods'
+        ➜ Explicit dependency on target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+    Target 'React-runtimeexecutor' in project 'Pods'
+        ➜ Explicit dependency on target 'React-Core-prebuilt' in project 'Pods'
+        ➜ Explicit dependency on target 'React-debug' in project 'Pods'
+        ➜ Explicit dependency on target 'React-featureflags' in project 'Pods'
+        ➜ Explicit dependency on target 'React-jsi' in project 'Pods'
+        ➜ Explicit dependency on target 'React-utils' in project 'Pods'
+        ➜ Explicit dependency on target 'ReactNativeDependencies' in project 'Pods'
+ 
