@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-// Gunakan config punyamu sendiri
+// congfig Firebase
 const firebaseConfig = {
   apiKey: "AIzaSyCTdbNRf0Tm7pS1hCFCQdCxhEbgkhlfv1Y",
   authDomain: "pbpfirebase.firebaseapp.com",
